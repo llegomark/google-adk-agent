@@ -1,6 +1,6 @@
 # Info Hub Agent
 
-A multi-functional information retrieval agent built with Google's Agent Development Kit (ADK) that provides access to multiple information sources through a unified interface.
+A multi-functional information retrieval agent built with [Google's Agent Development Kit (ADK)](https://google.github.io/adk-docs/) that provides access to multiple information sources through a unified interface.
 
 ## Features
 
@@ -55,6 +55,6 @@ This agent uses a coordinator pattern with specialized sub-agents:
 - **HackerNews Agent**: Retrieves tech news from Hacker News and GitHub trending repositories
 - **DepEd Agent**: Fetches and parses news from the Department of Education RSS feed
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 Built with [Google Agent Development Kit (ADK)](https://github.com/google/adk-python), an open-source toolkit for building AI agents.
